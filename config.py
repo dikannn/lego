@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Напрямую устанавливаем токен для тестирования
-BOT_TOKEN = "8292650288:AAEflaSfh7mN2RqVL0_fnoXUDIhXzKb-ed8"
+BOT_TOKEN = "8245278845:AAHRu5RNGRvbXcVKYXwcgZmIFsFXM0s54dY"
 
 # Эмодзи для игры
 HORSE_EMOJI = "🍌"
@@ -22,6 +22,7 @@ HORSE_FOUND_MESSAGE = f"{HORSE_EMOJI} Вы нашли банан! {BAMBOO_EMOJI}
 HORSE_NOT_FOUND_MESSAGE = "😔 Нет, банана тут нет. Он был в"
 
 ABOUT_BOT_MESSAGE = f"{INFO_EMOJI} Banana Game — это лёгкий бот с мини-играми про банан! Найдите свой банан!"
+
 
 
 
